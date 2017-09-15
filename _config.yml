@@ -81,3 +81,5 @@ deploy:
   repo: git@github.com:leonfancy/leonfancy.github.io.git
   branch: master
 
+server:
+  compress: true
