@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Leon Chen
-subtitle: Life of developer
-description: Life of developer
-author: Leon
-language:
+title: Leon Chen | 陈亮的个人博客
+subtitle: Coding Fantasy
+description: 陈亮的个人博客
+author: Leon Chen, 陈亮
+language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://chenleon.com
+url: http://chenleon.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

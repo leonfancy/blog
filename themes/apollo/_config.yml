@@ -1,14 +1,14 @@
 menu:
-    Blog: /
-    Archive: /archives/
+    主页: /
+    过往: /archives/
     GitHub: https://github.com/leonfancy
 
 favicon: /favicon.png
-logo: /favicon.png
+logo: /logo.svg
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: chen-leon
 duoshuo:
 
 # Analytics
