@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "6"
+branches:
+  only:
+  - master
+
+before_script:
+- sed -i "s#git@github.com:leonfancy/leonfancy.github.io.git#https://${GH_TOKEN}@github.com:leonfancy/leonfancy.github.io.git#" _config.yml
+
+script:
+  - "hexo clean"
+  - "hexo deploy --generate"

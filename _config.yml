@@ -79,6 +79,8 @@ theme: apollo
 deploy:
   type: git
   repo: git@github.com:leonfancy/leonfancy.github.io.git
+  name: Leon
+  email: slimhigh@gmail.com
   branch: master
 
 server:
